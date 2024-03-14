@@ -143,14 +143,14 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  <a href="https://github.com/XavierLoAs">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=xavierloas&theme=radical&border=7F3FBF&background=0D1117%22%20alt=%22Saif%27s%20GitHub%20streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  <a href="https://github.com/XavierLoAs">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xavierloas&theme=radical" alt="Xavier López's GitHub Contribution"/>
   </a>
 </p>
 
