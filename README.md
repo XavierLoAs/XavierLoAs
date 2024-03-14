@@ -34,10 +34,10 @@
  </a> 
 </p>
 <br>
+
 <!-- About Section -->
- # About me
- 
-<p>
+ ## About me
+ <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
  ✌️ &emsp; Enjoy learning new things and sharing my projects <br/><br/>
  ❤️ &emsp; Love coding, playing and designing videogames, drawing, 3D modelling and reading<br/><br/>
@@ -46,7 +46,8 @@
 
 </p>
 
-<br/>
+
+
 
 ## Use To Code
 
