@@ -39,6 +39,8 @@
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ ✌️ &emsp; Enjoy learning new things and sharing my projects <br/><br/>
+ ❤️ &emsp; Love coding, playing and designing videogames, drawing, 3D modelling and reading<br/><br/>
  📧 &emsp; Reach me anytime: xavier.lopez.asensio@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/xavierloas/xavierloas/issues)
 
